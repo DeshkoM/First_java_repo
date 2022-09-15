@@ -1,5 +1,10 @@
+
+
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Hello world!");
+    Thrapezoid c = new Thrapezoid(8,9,7,7);
+    c.msg();
+    c.perimeterThrapezoid();
+    c.areaThrapezoid();
     }
 }
