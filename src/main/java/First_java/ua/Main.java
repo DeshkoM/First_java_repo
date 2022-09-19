@@ -2,8 +2,8 @@ package First_java.ua;
 
 public class Main {
     public static void main(String[] args) {
-        Circle c = new Circle(3);
-        Circle d = new Circle();
-        System.out.println(c);
+       RhombusService r = new RhombusService(4,45);
+       RhombusService r2 = new RhombusService(4,43);
+        System.out.println(r);
     }
 }

@@ -22,17 +22,6 @@ public class Circle implements java.io.Serializable {    //Сериализац�
         this.radius = radius;
     }
 
-    public String  perimeterCircle() {
-        double perim = 2 * Math.PI * radius;
-        return ("Периметр круга = " + perim);
-    }
-
-    public String areaCircle() {
-        double area = Math.PI * Math.pow(radius, 2);
-        return ("Площадь круга = " + area);
-    }
-
-
     @Override
     public boolean equals(Object o) {
         if (this == o) return true;
@@ -48,14 +37,10 @@ public class Circle implements java.io.Serializable {    //Сериализац�
 
     @Override
     public String toString() {
-        return "Создан круг " +
-                "радиус = " + radius +
-                ' ' +
-                "\n" +
-                perimeterCircle() +
-                " " +
-                "\n" +
-                areaCircle();
+        return
+                "Circle{" +
+                "radius=" + radius +
+                '}';
     }
 }
 
