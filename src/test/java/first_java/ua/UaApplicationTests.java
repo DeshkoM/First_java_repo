@@ -1,4 +1,4 @@
-package First_java.ua;
+package first_java.ua;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

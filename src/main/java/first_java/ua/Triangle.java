@@ -1,4 +1,4 @@
-package First_java.ua;
+package first_java.ua;
 
 import java.util.Objects;
 

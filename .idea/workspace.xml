@@ -5,13 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1c7c534b-559a-40c7-ac87-de2d698883ab" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/First_java/ua/CircleService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/First_java/ua/RhombusService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/First_java/ua/SquareService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/First_java/ua/TriangleService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/first_java/ua/ThrapezoidService.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/First_java/ua/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/First_java/ua/Circle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/First_java/ua/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/First_java/ua/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/First_java/ua/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/first_java/ua/Circle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/First_java/ua/CircleService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/first_java/ua/CircleService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/First_java/ua/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/first_java/ua/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/First_java/ua/Rhombus.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/first_java/ua/Rhombus.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/First_java/ua/RhombusService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/first_java/ua/RhombusService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/First_java/ua/Square.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/first_java/ua/Square.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/First_java/ua/SquareService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/first_java/ua/SquareService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/First_java/ua/Triangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/first_java/ua/Triangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/First_java/ua/TriangleService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/first_java/ua/TriangleService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/First_java/ua/UaApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/first_java/ua/UaApplicationTests.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
